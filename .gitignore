@@ -1,0 +1,10 @@
+# Ignore the .env file containing environment variables
+.env
+
+# Other common files and directories to ignore
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+db.sqlite3
+*.log
